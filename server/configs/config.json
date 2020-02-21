@@ -1,0 +1,71 @@
+{
+    "test": {
+        "host": "http://localhost:4000",
+        "mysql": {
+            "host": "localhost",
+            "port": 3306,
+            "user": "root",
+            "password": "root",
+            "database": "Enantra",
+            "mulitpleStatements": true
+        },
+        "port": 3030
+    },
+    "prod": {
+        "host": "ec2-3-17-135-64.us-east-2.compute.amazonaws.com:3030",
+        "mysql": {
+            "host": "enantraprod.clh82kfjf7af.us-east-2.rds.amazonaws.com",
+            "port": 3306,
+            "user": "master",
+            "password": "capitalize18",
+            "database": "klaus",
+            "mulitpleStatements": true
+        },
+        "port": 3030
+    },
+    "private_key": "204339b939c87cb5d9062758ff8552222f6ccb76999b8e4b503e9430355c5c99",
+    "day2":"jd338sjdhk10kju1pdmvcb303",
+    "event_code": {
+        "test": "registrations-412400",
+        "prod": ""
+    },
+    "acc": [
+        {
+            "": ""
+        },
+        {
+            "eventname": "accomodation-301140",
+            "ticket": [{
+                    "": ""
+                },
+                {
+                    "ticket": "accomodation-day-1-boys",
+                    "hash": "18647",
+                    "eventid": "12"
+                },
+                {
+                    "ticket": "accomodation-day-1-girls",
+                    "hash": "18647",
+                    "eventid": "12"
+                }
+            ]
+        },
+        {
+            "eventname": "accomodation2-411042",
+            "ticket": [{
+                    "": ""
+                },
+                {
+                    "ticket": "accomodation-day-2-boys",
+                    "hash": "18648",
+                    "eventid": "13"
+                },
+                {
+                    "ticket": "accomodation-day-2-girls",
+                    "hash": "18648",
+                    "eventid": "13"
+                }
+            ]
+        }
+    ]
+}

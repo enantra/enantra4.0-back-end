@@ -1,0 +1,38 @@
+{
+  "name": "klaus",
+  "version": "1.0.0",
+  "description": "Webserver for Enantra 2019",
+  "main": "klaus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/capitalize2018/enantra/back-end.git"
+  },
+  "author": "Prabhu Sivanandam",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.1",
+    "bcrypt": "^3.0.3",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "cryptr": "^4.0.2",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^8.4.0",
+    "moment": "^2.23.0",
+    "morgan": "^1.9.1",
+    "mysql": "^2.16.0",
+    "nodemailer": "^4.7.0",
+    "npm": "^6.13.4",
+    "path": "^0.12.7",
+    "qrcode": "^1.3.2",
+    "request": "^2.88.0",
+    "underscore": "^1.9.1",
+    "validator": "^10.10.0",
+    "voucher-code-generator": "^1.1.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "web":
+    {
+      "client_id":"621333676906-9aflo6qees99innb7ovol2pp7ghpll46.apps.googleusercontent.com",
+      "project_id":"enantra",
+      "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+      "token_uri":"https://oauth2.googleapis.com/token",
+      "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+      "client_secret":"yWfmw61h6YWc31wLlkkukwrR",
+      "refresh_token" : "1//04zAWJAi9LZOWCgYIARAAGAQSNwF-L9Irb9D2Ea0n1r6bZyBiIVSqsvrJlcWZCyUSXbW7a6n7fol6KegYG3klzG_zlgIGyku8K3A"
+    }
+}
